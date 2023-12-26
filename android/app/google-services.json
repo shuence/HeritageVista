@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505261881210",
+    "project_id": "heritage-vista",
+    "storage_bucket": "heritage-vista.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505261881210:android:20af7080ebee1bd9b488c3",
+        "android_client_info": {
+          "package_name": "com.example.heritage_vista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYkvZx1fyAwiaOVp6bboDDBBRADADmsGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
