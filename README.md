@@ -20,9 +20,9 @@ Here you can view the deployed version
 
 ## Videos 
 
-[Intro To HeritageVista Video in Short But In Detail]("https://www.youtube.com/watch?v=JnUlPyy0eO0&ab_channel=krishnaaute")
+[Intro To HeritageVista Video in Short But In Detail](https://www.youtube.com/watch?v=JnUlPyy0eO0&ab_channel=krishnaaute)
 
-[Prototype Video]("https://youtu.be/NwYVp9HNw78")
+[Prototype Video](https://youtu.be/NwYVp9HNw78)
 
 
 ## Setup
